@@ -56,6 +56,7 @@
     <Compile Include="Assets\Scripts\MapCharacter.cs" />
     <Compile Include="Assets\FollowCamera.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\UselessScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
